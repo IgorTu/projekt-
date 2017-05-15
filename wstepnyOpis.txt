@@ -1,0 +1,9 @@
+Igor Turulski
+
+Wstêpny opis projektu Akademia C#
+
+W swoim projekcie wykorzystam Windows Forms Application
+
+Program u³atwiaj¹cy zarz¹danie portem morskim. 
+U¿ytkownik ma mo¿liwoœæ dodawania towarów wp³ywaj¹cych do portu oraz usuwania towarów wyp³ywaj¹cych z portu. Isnieje mo¿liwoœæ analizy aktualnego stanu magazynów. 
+Stan magazynów bêdzie ograniczony limitem, gdy zostanie on przekroczony bêdzie wyœmietlany komunikat: MAGAZYN ZAPE£NIONY TOWAREM.  
